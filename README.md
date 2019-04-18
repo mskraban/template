@@ -3,8 +3,9 @@ Template for faster developing.
 
 ## Install
 Use yarn to download dependencies:
-`yard add jquery`
 
-`yarn add uikit`
+jQuery `yard add jquery`
+
+Uikit `yarn add uikit`
 
 
