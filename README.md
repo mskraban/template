@@ -1,2 +1,2 @@
-# template
-Uikit and SCSS starter template
+# Uikit and SCSS starter template
+Template for faster developing.
