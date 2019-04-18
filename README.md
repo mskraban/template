@@ -5,6 +5,7 @@ Template for faster developing.
 Use yarn to download dependencies:
 
 **jQuery** `yard add jquery`
+
 **Uikit** `yarn add uikit`
 
 
