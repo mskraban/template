@@ -1,0 +1,12 @@
+{
+  "name": "Template",
+  "version": "Init release",
+  "description": "Starting template with uikit",
+  "main": "index.js",
+  "author": "Mario Skraban",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "uikit": "^3.1.0"
+  }
+}
